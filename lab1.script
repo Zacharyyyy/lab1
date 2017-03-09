@@ -1,0 +1,15 @@
+Script started on Thu Mar  9 21:23:23 2017
+[?1034hbash-3.2$ whoami;pwd
+zackary
+/Users/zackary/Desktop
+bash-3.2$ git config -l
+credential.helper=osxkeychain
+user.name=Zach
+user.email=zack70207@gmail.com
+bash-3.2$ git clone https://github.com/Zacharyyyy/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+bash-3.2$ exit
+
+Script done on Thu Mar  9 21:24:37 2017
