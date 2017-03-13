@@ -1,8 +1,5 @@
 Script started on Mon Mar 13 21:47:57 2017
 
-To running this code, enter: ./a
-
-input an integer. ex.22
-output: 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
-
-
+echo "It will print out numbers, following the rule of if n is odd then n = 3n+1else n = n/2."
+g++ -o a second_hw.c
+./a
